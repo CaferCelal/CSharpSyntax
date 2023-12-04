@@ -1,0 +1,14 @@
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\bin\Debug\net7.0\MyFirstConsoleProject.exe
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\bin\Debug\net7.0\MyFirstConsoleProject.deps.json
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\bin\Debug\net7.0\MyFirstConsoleProject.runtimeconfig.json
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\bin\Debug\net7.0\MyFirstConsoleProject.dll
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\bin\Debug\net7.0\MyFirstConsoleProject.pdb
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.AssemblyInfo.cs
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.dll
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\refint\MyFirstConsoleProject.dll
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.pdb
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\MyFirstConsoleProject.genruntimeconfig.cache
+C:\Users\Cafer Celal Evrenüz\RiderProjects\MyFirstConsoleSolution\MyFirstConsoleProject\obj\Debug\net7.0\ref\MyFirstConsoleProject.dll
